@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa833cd5dee53228",
+            "id": "0f0727a55e10bb38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Nova aba"
             }
           }
         ]
@@ -188,11 +184,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "aa833cd5dee53228",
+  "active": "862666d051c4d0b0",
   "lastOpenFiles": [
+    "index.md.md",
+    "Home.md",
+    "Memories.md",
+    "Novelo de Lã.md",
+    "index.md.txt",
+    "Novo(a) Documento de Texto.txt",
     "memories-game",
     "02 - Personagens/Xu.md",
-    "Home.md",
     "05 - Itens e habilidades/Varinha.md",
     "01 - Narrativa/Regras do Universo.md",
     "00 - Visão Geral/Pitch.md",
@@ -206,9 +207,6 @@
     "03 - Mundo/Locais especiais",
     "03 - Mundo/Biomas",
     "99 - Ideias",
-    "09 - Desenvolvimento",
-    "08 - Áudio",
-    "07 - Arte",
-    "06 - Inimigos"
+    "09 - Desenvolvimento"
   ]
 }
