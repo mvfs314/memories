@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "001d1773a182372f",
+    "id": "bd028f005aed4145",
     "type": "split",
     "children": [
       {
-        "id": "6907c238abf6fd05",
+        "id": "f871f982a0a329be",
         "type": "tabs",
         "children": [
           {
-            "id": "0f0727a55e10bb38",
+            "id": "7b174b0d41510bb4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d3ee54935ef367bc",
+    "id": "2dc5856358b97a48",
     "type": "split",
     "children": [
       {
-        "id": "b2a0f83590426148",
+        "id": "45fe7cef7e40cdf7",
         "type": "tabs",
         "children": [
           {
-            "id": "862666d051c4d0b0",
+            "id": "a05a29c96782497b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "ab7b03383a104fe2",
+            "id": "b0c2e202f0b2ad21",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "07135cc7a4c1878f",
+            "id": "190f28490c37a81b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +82,19 @@
     "width": 300
   },
   "right": {
-    "id": "45372110de381d69",
+    "id": "a55fb95c6e061322",
     "type": "split",
     "children": [
       {
-        "id": "3def2f546e22b16d",
+        "id": "de9acb48dd5dabc0",
         "type": "tabs",
         "children": [
           {
-            "id": "e282a39ce8d519a0",
+            "id": "530f4d22e145d213",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,12 +108,11 @@
             }
           },
           {
-            "id": "b300c84e52fc2b5d",
+            "id": "c0f90cd9e32d9161",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -123,7 +121,7 @@
             }
           },
           {
-            "id": "df8d278e6830949d",
+            "id": "dc8abcd555e7d013",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,7 +136,7 @@
             }
           },
           {
-            "id": "13a3956038403be9",
+            "id": "f32bd23cc340e81e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,12 +150,11 @@
             }
           },
           {
-            "id": "e829927a204dc746",
+            "id": "1f5e0aad9f3b279e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,29 +181,6 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "862666d051c4d0b0",
-  "lastOpenFiles": [
-    "index.md.md",
-    "Home.md",
-    "Memories.md",
-    "Novelo de Lã.md",
-    "index.md.txt",
-    "Novo(a) Documento de Texto.txt",
-    "memories-game",
-    "02 - Personagens/Xu.md",
-    "05 - Itens e habilidades/Varinha.md",
-    "01 - Narrativa/Regras do Universo.md",
-    "00 - Visão Geral/Pitch.md",
-    "00 - Visão Geral/Conceito do Jogo.md",
-    "_Templates/Template - Personagem.md",
-    "Bem-vindo.md",
-    "NarrativaSem título.md",
-    "_Templates",
-    "03 - Mundo/Fotografias",
-    "03 - Mundo/Ecos",
-    "03 - Mundo/Locais especiais",
-    "03 - Mundo/Biomas",
-    "99 - Ideias",
-    "09 - Desenvolvimento"
-  ]
+  "active": "7b174b0d41510bb4",
+  "lastOpenFiles": []
 }
