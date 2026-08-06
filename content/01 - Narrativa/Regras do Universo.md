@@ -1,5 +1,7 @@
 ## Objetivo
 
+Batatainah
+
 Este documento define as regras do universo de Memories. Todas as decisões de narrativa, gameplay e arte devem respeitar estas regras.
 
 ---
