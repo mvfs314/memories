@@ -6,6 +6,8 @@ Bem-vindo ao GDD do projeto.
 
 - [[Conceito do Jogo]]
 
+Parapapapa
+
 ---
 
 ## 📚 Seções
