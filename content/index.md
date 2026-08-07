@@ -30,7 +30,7 @@ O primeiro gato encontrado pelo protagonista.
 - Papel: ataque.
 - Item: 🪄 Varinha de brinquedo.
 
-[[🐆 Xu]]
+[[Xu]]
 
 ---
 
