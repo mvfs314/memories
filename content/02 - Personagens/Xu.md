@@ -28,19 +28,31 @@ Xu é a primeira gata encontrada durante a jornada. Ela apresenta ao jogador o f
 
 - Primeira gata encontrada;
 - Introduz as mecânicas ligadas aos itens;
-- Entrega a Varinha ao protagonista.
+- Entrega a [[Varinha]] ao protagonista.
 
 ---
 
 ## Item
 
-**Varinha**
+[[Varinha]]
 
-Brinquedo favorito de Xu. É o primeiro item obtido pelo jogador e serve como base para diversas habilidades ao longo da aventura.
+Brinquedo favorito de Xu. 
+
+É o primeiro item obtido pelo jogador e serve como habilidade de ataque.
 
 ---
 
-## Habilidades
+## Ataque especial 
+
+- 7 vidas: cria 6 cópias que atacam ao mesmo tempo
+- > **TODO:**  mais um
+
+---
+
+## Idles prolongadas
+
+- Estante/mesa aparece e derruba objetos;
+- Começa a brincar com do protagonista (buffa ataque).
 
 ---
 
