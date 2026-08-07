@@ -15,9 +15,3 @@ Ao encontrá-los, surge um novo objetivo: recuperar fotografias perdidas espalha
 Ao reconstruir essas memórias, o protagonista se aproxima da verdade sobre seus companheiros.
 
 No fim da jornada, descobre que os gatos já morreram e que toda a aventura foi, na realidade, um processo de aceitar sua ausência.
-
-## Frase principal
-
-"O jogador acredita que está procurando seus gatos.
-Depois acredita que está recuperando fotografias.
-Na verdade, está reconstruindo as próprias memórias para aprender a viver com a ausência deles."

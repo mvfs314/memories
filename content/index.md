@@ -6,7 +6,7 @@ Uma jornada pelas lembranças de três gatos que marcaram uma vida.
 
 ---
 
-# 📖 Visão Geral
+# 📖 O que é?
 
 **Memories** é um metroidvania 2D focado em exploração, descoberta e memórias.
 
@@ -30,7 +30,7 @@ O primeiro gato encontrado pelo protagonista.
 - Papel: ataque.
 - Item: 🪄 Varinha de brinquedo.
 
-[[Xu]]
+[[🐆 Xu]]
 
 ---
 
