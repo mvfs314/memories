@@ -1,13 +1,12 @@
 ---
 title: Memories
 ---
-
 Uma jornada pelas lembranças de três gatos que marcaram uma vida.
 
 ---
 
 # 📖 O que é?
-
+![[MardaNeblina1.png]]
 **Memories** é um metroidvania 2D focado em exploração, descoberta e memórias.
 
 O jogador inicia sua jornada procurando seus três gatos desaparecidos. Durante a busca, encontra fotografias antigas que revelam momentos especiais vividos ao lado deles.
