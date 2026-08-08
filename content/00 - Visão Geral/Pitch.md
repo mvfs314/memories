@@ -1,6 +1,6 @@
 ---
-title: 🎯 Pitch
-icon:
+title: Pitch
+icon: 🎯
 ---
 ## Elevator Pitch
 
