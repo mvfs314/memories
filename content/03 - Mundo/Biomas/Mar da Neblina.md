@@ -1,6 +1,5 @@
 ---
-title: Mar da Neblina
-icon: ☁️
+title: ☁️ Mar da Neblina
 ---
 ## 🌿 O Bioma
 
@@ -8,9 +7,9 @@ icon: ☁️
 
 Um gigantesco mar de nuvens e neblina, formado por ilhas flutuantes e estruturas suspensas em diferentes alturas.
 
-O jogador explora o céu utilizando plataformas, correntes de vento e caminhos escondidos pela névoa. Grandes nuvens de tempestade produzem raios que podem eletrizar a [[🧤 Luva de remover pelos]], permitindo atrair e repelir objetos e interagir com elementos do ambiente.
+O jogador explora o céu utilizando plataformas, correntes de vento e caminhos escondidos pela névoa. Grandes nuvens de tempestade produzem raios que podem eletrizar a [[Luva de remover pelos]], permitindo atrair e repelir objetos e interagir com elementos do ambiente.
 
-Conforme avança, a neblina se torna cada vez mais densa e a luz diminui, culminando em regiões de escuridão que só podem ser exploradas completamente após adquirir a habilidade de [[👁️ Visão no escuro]].
+Conforme avança, a neblina se torna cada vez mais densa e a luz diminui, culminando em regiões de escuridão que só podem ser exploradas completamente após adquirir a habilidade de [[Visão no escuro]].
 
 ### Atmosfera
 
@@ -50,11 +49,11 @@ Mesmo nas regiões mais escuras e tempestuosas, o ambiente deve permanecer fant�
 
 A exploração é baseada na verticalidade, vento e eletricidade.
 
-O jogador atravessa ilhas flutuantes utilizando plataformas e correntes de vento para alcançar diferentes alturas. Durante as tempestades, pode posicionar a [[🧤 Luva de remover pelos]] sob os raios para carregá-la eletricamente.
+O jogador atravessa ilhas flutuantes utilizando plataformas e correntes de vento para alcançar diferentes alturas. Durante as tempestades, pode posicionar a [[Luva de remover pelos]] sob os raios para carregá-la eletricamente.
 
 Com a luva carregada, o jogador pode atrair e repelir objetos eletricamente condutores, criando plataformas, movimentando estruturas e abrindo novos caminhos.
 
-A [[👁️ Visão no escuro]] permite explorar completamente as regiões onde a neblina e a ausência de luz impedem a visibilidade.
+A [[Visão no escuro]] permite explorar completamente as regiões onde a neblina e a ausência de luz impedem a visibilidade.
 
 ### Obstáculos
 
@@ -82,12 +81,12 @@ A definir.
 
 **Necessárias:**
 - Movimentação básica
-- [[🧤 Luva de remover pelos]]
-- [[👁️ Visão no escuro]]
+- [[Luva de remover pelos]]
+- [[Visão no escuro]]
 
 
 **Obtidas:**
-- [[👁️ Visão no escuro]]
+- [[Visão no escuro]]
 
 ---
 
@@ -102,7 +101,7 @@ As tempestades começam a aparecer, para que se use a eletrização da luva e a 
 
 ### Clímax
 
-O jogador alcança as regiões mais profundas da neblina, onde a ausência de luz impede o avanço. Após aprender a [[👁️ Visão no escuro]], passa a enxergar caminhos e áreas que antes estavam ocultos.
+O jogador alcança as regiões mais profundas da neblina, onde a ausência de luz impede o avanço. Após aprender a [[Visão no escuro]], passa a enxergar caminhos e áreas que antes estavam ocultos.
 
 ### Conclusão
 

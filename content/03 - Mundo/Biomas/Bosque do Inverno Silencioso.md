@@ -1,6 +1,5 @@
 ---
-title: Bosque do Inverno Silencioso
-icon: ❄️
+title: ❄️ Bosque do Inverno Silencioso
 ---
 ## 🌿 O Bioma
 
@@ -8,7 +7,7 @@ icon: ❄️
 
 Um bosque coberto pela neve, representando uma memória de um período de inverno compartilhado pelo protagonista e pelos gatos.
 
-Logo no início do bioma, o jogador recupera a memória relacionada ao paninho. Ao reviver esse momento, recebe o [[🧣 Paninho]] como item utilizável.
+Logo no início do bioma, o jogador recupera a memória relacionada ao paninho. Ao reviver esse momento, recebe o [[Paninho]] como item utilizável.
 
 O bosque é construído ao redor da progressão do frio.
 
@@ -48,7 +47,7 @@ A neve cobre o ambiente e reduz os sons do mundo. O contraste entre o frio do bo
 
 O jogador atravessa um bosque progressivamente mais frio.
 
-Após recuperar a memória no início da área, recebe o [[🧣 Paninho]] e passa a utilizá-lo para se aquecer durante a exploração.
+Após recuperar a memória no início da área, recebe o [[Paninho]] e passa a utilizá-lo para se aquecer durante a exploração.
 
 O desafio está em administrar o calor enquanto procura caminhos seguros para avançar.
 
@@ -77,10 +76,10 @@ A definir.
 
 **Necessárias:**
 - Movimentação básica
-- [[🧣 Paninho]]
+- [[Paninho]]
 
 **Obtidas:**
-- [[🧣 Paninho]]
+- [[Paninho]]
 
 ---
 
@@ -90,13 +89,13 @@ A definir.
 
 O jogador entra no bosque e percebe imediatamente a mudança de ambiente causada pelo inverno.
 
-A memória é recuperada logo no início para obter o [[🧣 Paninho]] como item de calor/aquecimento.
+A memória é recuperada logo no início para obter o [[Paninho]] como item de calor/aquecimento.
 
 A neve, o silêncio e a presença dos gatos estabelecem a identidade do bioma.
 
 ### Desenvolvimento
 
-Com o [[🧣 Paninho]] em mãos, o jogador consegue avançar para regiões mais frias do bosque.
+Com o [[Paninho]] em mãos, o jogador consegue avançar para regiões mais frias do bosque.
 
 O ambiente passa gradualmente a exigir maior atenção ao gerenciamento do calor.
 
@@ -108,7 +107,7 @@ O jogador chega à região mais profunda do bosque, onde precisa utilizar o pani
 
 Após atravessar o bosque, o jogador segue para o próximo fragmento de memória.
 
-O [[🧣 Paninho]] permanece em seu inventário e poderá ter novas funções posteriormente.
+O [[Paninho]] permanece em seu inventário e poderá ter novas funções posteriormente.
 
 ### Backtracking
 

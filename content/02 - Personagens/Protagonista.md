@@ -1,6 +1,5 @@
 ---
-title: Protagonista
-icon: 🧍
+title: 🧍 Protagonista
 ---
 ## História
 

@@ -1,6 +1,5 @@
 ---
-title: Arquipélago dos Novelos
-icon: 🏝️
+title: 🏝️ Arquipélago dos Novelos
 ---
 ## 🌿 O Bioma
 
@@ -53,13 +52,13 @@ Apesar da presença de regiões escuras e do perigo de ficar sem ar, o bioma nã
 
 A exploração do bioma é baseada principalmente na progressão vertical.
 
-O jogador utiliza o [[🧶 Novelo de lã]] como cipó, prendendo-o em fios e estruturas do ambiente para atravessar grandes espaços, balançar, alcançar plataformas e continuar subindo pelo arquipélago.
+O jogador utiliza o [[Novelo de lã]] como cipó, prendendo-o em fios e estruturas do ambiente para atravessar grandes espaços, balançar, alcançar plataformas e continuar subindo pelo arquipélago.
 
 Em determinados pontos, o jogador encontra massas de água suspensas, que funcionam como entradas para áreas subaquáticas.
 
 Na subárea aquática, o jogador pode nadar livremente e precisa administrar seu oxigênio. Bolhas e bolsões de ar permitem recuperar o fôlego e continuar explorando.
 
-Conforme avança para regiões mais profundas, a área se torna progressivamente mais escura. A área mais profunda só pode ser explorada após adquirir a [[👁️ Visão no escuro]] no [[☁️ Mar da Neblina]].
+Conforme avança para regiões mais profundas, a área se torna progressivamente mais escura. A área mais profunda só pode ser explorada após adquirir a [[Visão no escuro]] no [[Mar da Neblina]].
 
 ### Obstáculos
 
@@ -90,11 +89,11 @@ A definir.
 
 **Necessárias:**
 - Movimentação básica
-- [[🧶 Novelo de lã]]
-- [[👁️ Visão no escuro]]
+- [[Novelo de lã]]
+- [[Visão no escuro]]
 
 **Obtidas:**
-- [[🧶 Novelo de lã]]
+- [[Novelo de lã]]
 
 ---
 
@@ -102,7 +101,7 @@ A definir.
 
 ### Início
 
-O jogador chega ao arquipélago e começa a explorar as grandes formações de lã, aprendendo a utilizar o [[🧶 Novelo de lã]] para atravessar os espaços e subir pelas ilhas.
+O jogador chega ao arquipélago e começa a explorar as grandes formações de lã, aprendendo a utilizar o [[Novelo de lã]] para atravessar os espaços e subir pelas ilhas.
 
 ### Desenvolvimento
 
@@ -114,7 +113,7 @@ O jogador entra na grande subárea subaquática e precisa subir pelas profundeza
 
 ### Conclusão
 
-Após adquirir a [[👁️ Visão no escuro]] no [[☁️ Mar da Neblina]], o jogador retorna e consegue explorar as regiões mais profundas, revelando o caminho que antes estava oculto e concluindo a área.
+Após adquirir a [[Visão no escuro]] no [[Mar da Neblina]], o jogador retorna e consegue explorar as regiões mais profundas, revelando o caminho que antes estava oculto e concluindo a área.
 
 ### Backtracking
 

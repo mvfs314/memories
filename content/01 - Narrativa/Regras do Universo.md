@@ -1,6 +1,5 @@
 ---
-title: Regras do Universo
-icon: 📜
+title: 📜 Regras do Universo
 ---
 ## Objetivo
 

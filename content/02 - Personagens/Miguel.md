@@ -1,6 +1,5 @@
 ---
-title: Miguel
-icon: 🐈‍⬛
+title: 🐈‍⬛ Miguel
 ---
 ## História
 
@@ -35,13 +34,13 @@ Suas memórias também representam a importância dos pequenos momentos comparti
 
 - Terceiro gato encontrado;
 - Introduz as mecânicas relacionadas à estratégia e à exploração;
-- Entrega a [[📦 Caixa de papelão]] ao protagonista.
+- Entrega a [[Caixa de papelão]] ao protagonista.
 
 ---
 
 ## Item
 
-[[🛡️ Almofada]]
+[[Almofada]]
 
 Objeto associado a Karine e à ideia de conforto e proteção.
 
@@ -66,8 +65,8 @@ Serve como base para as habilidades defensivas adquiridas pelo protagonista.
 ## Memórias relacionadas
 
 - Deitado na cadeira querendo puxar o fio do novelo;
-- Brincando na caixa com a [[🐈 Karine]];
-- Fugindo do banho com a ajuda da [[🐈 Karine]];
+- Brincando na caixa com a [[Karine]];
+- Fugindo do banho com a ajuda da [[Karine]];
 -  **TODO:** mar de neblina;
 - Dentro da caixa de papelão;
 - Olhando através da janela;

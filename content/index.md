@@ -30,7 +30,7 @@ O primeiro gato encontrado pelo protagonista.
 - Papel: ataque.
 - Item: 🪄 Varinha de brinquedo.
 
-[[🐆 Xu]]
+[[Xu]]
 
 ---
 
@@ -42,7 +42,7 @@ Uma gata que mostrou que por trás de uma fama difícil existia muito carinho.
 - Papel: defesa.
 - Item: 🛏️ Almofada.
 
-[[🐈 Karine]]
+[[Karine]]
 
 ---
 
@@ -54,7 +54,7 @@ O último gato adotado, que encontrou um lar quando mais precisava.
 - Papel: estratégia.
 - Item: 📦 Caixa de papelão.
 
-[[🐈‍⬛ Miguel]]
+[[Miguel]]
 
 ---
 
@@ -67,12 +67,12 @@ Cada bioma representa um momento vivido com os gatos, trazendo elementos, objeto
 ## Biomas
 
 - [[Jardim das Escolhas Perdidas]]
-- [[❄️ Bosque do Inverno Silencioso]]
+- [[Bosque do Inverno Silencioso]]
 - [[Labirinto da Procura]]
 - [[Bosque dos Últimos Carinhos]]
 - [[Mirante das Estações]]
 - [[Caminho de Casa]]
-- [[☁️ Mar da Neblina]]
+- [[Mar da Neblina]]
 - [[Casa de Cabeça para Baixo]]
 - [[Praça da Festa Eterna]]
 - [[Jardim das Borboletas e Penas]]
@@ -119,7 +119,7 @@ Cada gato ensina novas formas de interagir com o mundo.
 
 Objetos comuns da vida dos gatos se tornam ferramentas de exploração.
 
--  [[🗡️ Varinha]]
+-  [[Varinha]]
 
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: Reino das Caixas de Papelão
-icon: 📦
+title: 📦 Reino das Caixas de Papelão
 ---
 ## 🌿 O Bioma
 

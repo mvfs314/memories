@@ -1,6 +1,5 @@
 ---
-title: Xu
-icon: 🐆
+title: 🐆 Xu
 ---
 ## História
 
@@ -30,13 +29,13 @@ Xu é a primeira gata encontrada durante a jornada. Ela apresenta ao jogador o f
 
 - Primeira gata encontrada;
 - Introduz as mecânicas ligadas aos itens;
-- Entrega a [[🗡️ Varinha]] ao protagonista.
+- Entrega a [[Varinha]] ao protagonista.
 
 ---
 
 ## Item
 
-[[🗡️ Varinha]]
+[[Varinha]]
 
 Brinquedo favorito de Xu. 
 
