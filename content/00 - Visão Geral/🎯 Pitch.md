@@ -1,6 +1,7 @@
-
 ---
-
+title: Pitch
+icon: 🎯
+---
 ## Elevator Pitch
 
 Memories é um metroidvania 2D em que o jogador explora mundos formados por lembranças compartilhadas com seus três gatos. Após reencontrá-los logo no início da jornada, eles passam a acompanhá-lo na busca por fotografias perdidas, cada uma revelando uma memória importante. Ao reconstruir essas lembranças, o protagonista descobre que sua verdadeira jornada não era encontrar os gatos, mas aprender a viver com a ausência deles.

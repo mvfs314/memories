@@ -1,6 +1,7 @@
-
 ---
-
+title: Miguel
+icon: 🐈‍⬛
+---
 ## História
 
 Miguel foi o último dos três gatos a ser adotado. Ele foi abandonado junto com outros gatos e acabou sendo acolhido pelo protagonista.

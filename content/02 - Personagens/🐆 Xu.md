@@ -1,6 +1,7 @@
-
 ---
-
+title: Xu
+icon: 🐆
+---
 ## História
 
 Xu foi a primeira dos três gatos a morrer. No início da aventura, o protagonista acredita que está procurando por Xu para trazê-la de volta. 

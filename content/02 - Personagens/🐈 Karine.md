@@ -1,6 +1,7 @@
-
 ---
-
+title: Karine
+icon: 🐈
+---
 ## História
 
 Karine foi adotada depois que seu antigo dono não a quis mais. Ela tinha o hábito de arranhar tudo pela casa, mas, apesar disso, era uma gata carinhosa e doce.

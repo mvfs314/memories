@@ -1,6 +1,7 @@
-
 ---
-
+title: Protagonista
+icon: 🧍
+---
 ## História
 
 Após perder seus três gatos, o protagonista passa a revisitar suas lembranças. O mundo do jogo é formado por essas memórias, transformadas em ambientes exploráveis.
