@@ -1,4 +1,3 @@
-# ❄️ Bosque do Inverno Silencioso
 
 ---
 
@@ -8,7 +7,11 @@
 
 Um bosque coberto pela neve, representando uma memória de um período de inverno compartilhado pelo protagonista e pelos gatos.
 
-Logo no início do bioma, o jogador recupera a memória relacionada ao paninho. Ao reviver esse momento, recebe o [[Paninho]] como item utilizável.
+Logo no início do bioma, o jogador recupera a memória relacionada ao paninho. Ao reviver esse momento, recebe o [[🧣 Paninho]] como item utilizável.
+
+O bosque é construído ao redor da progressão do frio.
+
+As primeiras áreas são relativamente seguras. Conforme o jogador avança, encontra regiões cada vez mais expostas ao frio, tornando o uso do paninho essencial para continuar.
 
 ### Atmosfera
 
@@ -19,12 +22,6 @@ A neve cobre o ambiente e reduz os sons do mundo. O contraste entre o frio do bo
 ---
 
 ## 🗺️ Estrutura do Mundo
-
-### Visão geral
-
-O bosque é construído ao redor da progressão do frio.
-
-As primeiras áreas são relativamente seguras. Conforme o jogador avança, encontra regiões cada vez mais expostas ao frio, tornando o uso do paninho essencial para continuar.
 
 ### Áreas
 
@@ -40,7 +37,7 @@ As primeiras áreas são relativamente seguras. Conforme o jogador avança, enco
 
 **Saída:** 
 
-## **Conexões internas:**
+## **Conexões internas**
 
 ---
 
@@ -50,7 +47,7 @@ As primeiras áreas são relativamente seguras. Conforme o jogador avança, enco
 
 O jogador atravessa um bosque progressivamente mais frio.
 
-Após recuperar a memória no início da área, recebe o [[Paninho]] e passa a utilizá-lo para se aquecer durante a exploração.
+Após recuperar a memória no início da área, recebe o [[🧣 Paninho]] e passa a utilizá-lo para se aquecer durante a exploração.
 
 O desafio está em administrar o calor enquanto procura caminhos seguros para avançar.
 
@@ -79,11 +76,10 @@ A definir.
 
 **Necessárias:**
 - Movimentação básica
-- [[Paninho]]
+- [[🧣 Paninho]]
 
 **Obtidas:**
-- [[Paninho]]
-
+- [[🧣 Paninho]]
 
 ---
 
@@ -93,13 +89,13 @@ A definir.
 
 O jogador entra no bosque e percebe imediatamente a mudança de ambiente causada pelo inverno.
 
-A memória é recuperada logo no início para obter o [[Paninho]] como item de calor/aquecimento.
+A memória é recuperada logo no início para obter o [[🧣 Paninho]] como item de calor/aquecimento.
 
 A neve, o silêncio e a presença dos gatos estabelecem a identidade do bioma.
 
 ### Desenvolvimento
 
-Com o [[Paninho]] em mãos, o jogador consegue avançar para regiões mais frias do bosque.
+Com o [[🧣 Paninho]] em mãos, o jogador consegue avançar para regiões mais frias do bosque.
 
 O ambiente passa gradualmente a exigir maior atenção ao gerenciamento do calor.
 
@@ -111,7 +107,7 @@ O jogador chega à região mais profunda do bosque, onde precisa utilizar o pani
 
 Após atravessar o bosque, o jogador segue para o próximo fragmento de memória.
 
-O [[Paninho]] permanece em seu inventário e poderá ter novas funções posteriormente.
+O [[🧣 Paninho]] permanece em seu inventário e poderá ter novas funções posteriormente.
 
 ### Backtracking
 
@@ -150,7 +146,7 @@ A definir.
 ### 📸 Fotografias
 
 
-### 👁️ Ecos
+### 👻 Ecos
 
 
 ### 🧸 Homenagens

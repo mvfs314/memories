@@ -1,4 +1,3 @@
-# 📦 Reino das Caixas de Papelão
 
 ---
 
@@ -10,7 +9,9 @@ Um reino medieval completo construído inteiramente com caixas de papelão.
 
 A brincadeira com caixas é transformada pela imaginação em um verdadeiro reino, com portão de entrada, muralhas, cidadela, torres e um grande castelo no centro.
 
-A fantasia não substitui o papelão — **ela nasce dele**.
+A fantasia não substitui o papelão — ela nasce dele. O jogador entra pelo grande portão e pode explorar a cidadela, as muralhas e as torres antes de chegar ao castelo central.
+
+O castelo é o principal ponto do bioma e possui diferentes ambientes e níveis exploráveis.
 
 ### Atmosfera
 
@@ -21,14 +22,6 @@ O bioma deve transmitir a sensação de explorar um verdadeiro reino medieval, m
 ---
 
 ## 🗺️ Estrutura do Mundo
-
-### Visão geral
-
-O reino possui uma estrutura medieval tradicional, reinterpretada através de caixas de papelão.
-
-O jogador entra pelo grande portão e pode explorar a cidadela, as muralhas e as torres antes de chegar ao castelo central.
-
-O castelo é o principal ponto do bioma e possui diferentes ambientes e níveis exploráveis.
 
 ### Áreas
 
@@ -48,7 +41,7 @@ O castelo é o principal ponto do bioma e possui diferentes ambientes e níveis 
 
 **Saída:** 
 
-## **Conexões internas:**
+## **Conexões internas**
 
 ---
 
@@ -156,7 +149,7 @@ A definir.
 ### 📸 Fotografias
 
 
-### 👁️ Ecos
+### 👻 Ecos
 
 
 ### 🧸 Homenagens

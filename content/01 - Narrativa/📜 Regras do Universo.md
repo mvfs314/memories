@@ -1,3 +1,6 @@
+
+---
+
 ## Objetivo
 
 Definir as regras que governam o mundo de Memories para manter consistência narrativa.

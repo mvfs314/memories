@@ -1,4 +1,5 @@
-# Karine
+
+---
 
 ## História
 
@@ -30,13 +31,13 @@ Sua história ajuda a mostrar que as memórias recuperadas não são apenas acon
 
 - Segunda gata encontrada;
 - Introduz as mecânicas relacionadas à defesa;
-- Entrega a [[Almofada]] ao protagonista.
+- Entrega a [[🛡️ Almofada]] ao protagonista.
 
 ---
 
 ## Item
 
-[[Almofada]]
+[[🛡️ Almofada]]
 
 Objeto associado a Karine e à ideia de conforto e proteção.
 
@@ -61,8 +62,8 @@ Serve como base para as habilidades defensivas adquiridas pelo protagonista.
 ## Memórias relacionadas
 
 - Brincando com novelo de lã;
-- Brincando numa caixa de papelão com o [[Miguel]];
-- Dançando forró com o [[protagonista]];
+- Brincando numa caixa de papelão com o [[🐈‍⬛ Miguel]];
+- Dançando forró com o [[🧍 Protagonista]];
 - Segurando a porta para o Miguel sair do banho;
 - Perdida debaixo do carro;
 - Olhando através da janela;
