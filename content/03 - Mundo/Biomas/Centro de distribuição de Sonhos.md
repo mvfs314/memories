@@ -197,9 +197,9 @@ A definir.
 
 ---
 
-## 🎨 Referências Visuais
+## 🎨 Referências Visuaise
 
-<span class="simple-carousel">![[_Imagens/CentroDistribuição/Centro1.png]]![[_Imagens/CentroDistribuição/Centro2.png]]![[_Imagens/CentroDistribuição/Centro3.png]]![[_Imagens/CentroDistribuição/Centro4.png]]</span>
+<span class="simple-carousel">![[_Imagens/CentroDistribuicao/Centro1.png]]![[_Imagens/CentroDistribuicao/Centro2.png]]![[_Imagens/CentroDistribuicao/Centro3.png]]![[_Imagens/CentroDistribuicao/Centro4.png]]</span>
 
 ---
 ## 🎵 Referências Sonoras
