@@ -117,8 +117,10 @@ O reino pode possuir áreas que se tornam acessíveis posteriormente através de
 
 ### Gatos presentes
 
-
+A definir.
 ### Interações
+
+A definir.
 
 
 ---
