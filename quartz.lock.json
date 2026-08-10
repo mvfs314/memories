@@ -202,8 +202,8 @@
     "quartz-carousel": {
       "source": "github:mvfs314/quartz-carousel",
       "resolved": "https://github.com/mvfs314/quartz-carousel.git",
-      "commit": "00f4f4c11e0064d665f57801885569cde3a10166",
-      "installedAt": "2026-08-10T02:30:31.430Z"
+      "commit": "7fc021a3c245917698e7b9b8a712317bc89c92fd",
+      "installedAt": "2026-08-10T12:40:41.200Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",

@@ -1,29 +1,31 @@
 ---
-title: 🌆 Labirinto da procura
+title: 🪜 Labirinto da procura
 ---
 ## 🌿 O Bioma
 
 ### Conceito
 
-Um enorme labirinto formado por ruas, becos, muros, cercas e passagens estreitas, criado a partir da imaginação de uma criança durante uma brincadeira de procurar um gato perdido.
+Um enorme labirinto vertical formado por escadas, corredores, plataformas e passagens, criado a partir da imaginação de uma criança durante a procura por um gato perdido.
 
-O jogador entra em uma região aparentemente comum, mas logo percebe que as ruas se transformam em um labirinto cada vez mais complexo. Caminhos se dividem, becos terminam em muros e diferentes rotas levam a partes desconhecidas do bairro.
+O jogador começa em uma estrutura relativamente simples, com poucas escadas e caminhos fáceis de compreender. Conforme avança, o espaço cresce e se torna progressivamente mais complexo, com novos níveis, escadarias e passagens interligadas.
 
-A procura pela memória é representada pela exploração desse labirinto.
+A memória da procura é representada pela sensação de subir e descer repetidamente em busca de Karine, transformando a exploração em um labirinto cada vez mais difícil de compreender.
 
-Ao longo do percurso, o jogador encontra pequenos sinais de que Karine passou por determinados lugares, mas nunca consegue vê-la diretamente. A sensação é de estar sempre chegando perto, sem saber exatamente onde ela está.
+À medida que o jogador avança, a arquitetura começa a desafiar a lógica. Escadas se cruzam, caminhos parecem retornar a lugares conhecidos e diferentes níveis se conectam de maneiras impossíveis, criando uma estrutura inspirada na ideia de **arquitetura impossível**.
 
-O labirinto eventualmente conduz o jogador para uma área mais escondida e apertada, onde a memória finalmente é encontrada.
+O jogador precisa atravessar esse labirinto crescente até chegar à área final, onde a complexa estrutura dá lugar a um espaço simples e familiar: o local onde Karine foi encontrada.
 
 ### Atmosfera
 
-Misteriosa, exploratória e inquietante.
+Misteriosa, exploratória e surreal.
 
-O bioma deve transmitir a sensação de procurar alguém que desapareceu e não saber onde ela está, mas sem se tornar excessivamente sombrio ou assustador.
+O bioma deve transmitir a sensação de uma procura que começa simples, mas se torna cada vez mais confusa conforme o tempo passa.
 
-A atmosfera começa relativamente aberta e familiar, mas vai ficando mais fechada e confusa conforme o jogador avança pelo labirinto.
+A atmosfera começa aberta e familiar, com poucas estruturas e caminhos bem definidos. Gradualmente, o cenário se torna mais vertical, denso e desorientador, acompanhando a sensação de estar procurando por alguém sem saber onde ela está.
 
-A descoberta da memória no final traz uma sensação de alívio e recompensa, encerrando a tensão da procura.
+A arquitetura impossível surge aos poucos, fazendo com que o jogador perceba que aquele espaço não segue mais as regras normais.
+
+No final, a complexidade desaparece e o ambiente retorna à simplicidade, criando uma sensação de alívio e descoberta ao encontrar Karine.
 
 ---
 
@@ -50,26 +52,29 @@ A descoberta da memória no final traz uma sensação de alívio e recompensa, e
 
 ### Exploração
 
-A exploração acontece por um grande labirinto formado por ruas, becos, muros, cercas e áreas escondidas.
+A exploração acontece por uma estrutura vertical formada por escadas, corredores, plataformas e diferentes níveis interligados.
 
-O jogador percorre diferentes caminhos em busca de pistas que indiquem por onde Karine passou.
+O jogador começa explorando uma área simples, com poucas escadas e caminhos fáceis de compreender.
 
-O labirinto possui múltiplas rotas e caminhos que se cruzam, fazendo com que o jogador precise observar o ambiente e memorizar pontos de referência para se orientar.
+Conforme avança, novas escadarias e níveis são descobertos, aumentando gradualmente a dimensão e a complexidade do labirinto.
 
-Algumas áreas podem ser acessadas por diferentes caminhos, permitindo que o jogador explore o labirinto de forma não linear.
+A arquitetura permite diferentes rotas de exploração, fazendo com que o jogador possa subir, descer e retornar a áreas já visitadas por caminhos diferentes.
 
-A exploração de caminhos alternativos e a descoberta de novas pistas são os principais elementos de gameplay do bioma.
+Nos trechos mais avançados, a estrutura começa a apresentar conexões impossíveis entre seus diferentes níveis, criando a sensação de estar perdido dentro de um espaço que não segue uma lógica convencional.
+
+A exploração vertical e a descoberta de novos caminhos são os principais elementos de gameplay do bioma.
 
 ### Obstáculos
 
+- Escadarias que conectam diferentes níveis
+- Plataformas em diferentes alturas
 - Caminhos que terminam em becos sem saída
-- Muros e cercas bloqueando passagens
-- Ruas que levam a diferentes direções
-- Passagens estreitas entre construções
+- Estruturas que bloqueiam determinadas passagens
+- Rotas que fazem o jogador retornar a áreas anteriores
+- Caminhos que se cruzam em diferentes níveis
+- Estruturas arquitetônicas que dificultam a orientação
 - Áreas que exigem habilidades específicas
-- Rotas que fazem o jogador retornar a regiões anteriores
-- Caminhos ocultos atrás de elementos do cenário
-- Trechos que dificultam a orientação do jogador
+- Conexões entre caminhos que criam uma arquitetura aparentemente impossível
 
 ### Puzzles
 
@@ -100,29 +105,37 @@ A definir
 
 ### Início
 
-O jogador entra no labirinto e começa a procurar pela memória.
+O jogador entra no labirinto e começa a procurar por Karine.
 
-Os primeiros caminhos são relativamente simples, permitindo que o jogador compreenda a estrutura do local e encontre as primeiras pistas de que Karine passou por ali.
+A área inicial possui poucas escadas e caminhos, permitindo que o jogador compreenda gradualmente a estrutura do local.
+
+As primeiras pistas indicam que Karine passou por aquela região, incentivando o jogador a continuar avançando.
 
 ### Desenvolvimento
 
-O labirinto se torna progressivamente mais complexo.
+A estrutura cresce progressivamente.
 
-Novos caminhos, becos e áreas interligadas são descobertos, fazendo com que o jogador precise explorar diferentes regiões e retornar a locais já visitados.
+Novas escadas, plataformas e níveis são adicionados ao caminho, fazendo com que o jogador alterne constantemente entre subir e descer durante a exploração.
 
-As pistas encontradas ao longo do percurso indicam que memória está cada vez mais próxima, mas sua localização continua desconhecida.
+As diferentes rotas começam a se cruzar e algumas áreas podem ser alcançadas por caminhos distintos, criando uma crescente sensação de desorientação.
+
+A arquitetura passa gradualmente a apresentar elementos impossíveis, fazendo com que o espaço pareça cada vez menos sujeito às regras normais.
 
 ### Clímax
 
-O jogador chega à região mais escondida e difícil de alcançar do labirinto.
+O jogador chega à região mais complexa do labirinto.
 
-O espaço se torna mais fechado e as passagens mais estreitas, culminando na descoberta de um pequeno esconderijo onde a memória está.
+Escadas, corredores e plataformas se conectam de maneiras aparentemente impossíveis, formando uma enorme estrutura vertical que representa o auge da confusão da procura.
+
+Depois de atravessar essa arquitetura, o jogador finalmente chega ao local onde Karine está escondida.
 
 ### Conclusão
 
-O jogador finalmente encontra escondida debaixo de um carro.
+A arquitetura impossível desaparece e o ambiente retorna a um espaço simples e familiar.
 
-Após a longa procura, a tensão da exploração é substituída por uma sensação de alívio ao perceber que ela está bem.
+O jogador encontra Karine.
+
+Após a longa procura, a sensação de desorientação é substituída por alívio ao perceber que ela está bem.
 
 A descoberta recupera a memória associada àquele momento.
 
