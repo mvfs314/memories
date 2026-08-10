@@ -272,6 +272,13 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:mvfs314/quartz-carousel
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: afterBody
+      priority: 50
 layout:
   groups:
     toolbar:
