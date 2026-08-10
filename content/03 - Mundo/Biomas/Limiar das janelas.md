@@ -174,7 +174,7 @@ A definir.
 
 ## 🎨 Referências Visuais
 
-
+<span class="simple-carousel">![[_Imagens/LimiarJanelas/LimiarJanelas1.png]]![[_Imagens/LimiarJanelas/LimiarJanelas2.png]]![[_Imagens/LimiarJanelas/LimiarJanelas3.png]]</span>
 
 ---
 ## 🎵 Referências Sonoras
