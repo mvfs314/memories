@@ -1,5 +1,5 @@
 ---
-title: 🖼️ O lugar onde o tempo guarda as coisas
+title: 🖼️ O lugar onde o tempo guarda as memórias
 ---
 ## 🌿 O Bioma
 
