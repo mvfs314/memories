@@ -66,7 +66,7 @@ Cada bioma representa um momento vivido com os gatos, trazendo elementos, objeto
 ## Biomas
 
 - [[Jardim das Escolhas Perdidas]]
-- [[Bosque do Inverno Silencioso]]
+- [[Vale dos sopros]]
 - [[Labirinto da Procura]]
 - [[Bosque dos Últimos Carinhos]]
 - [[Mirante das Estações]]
